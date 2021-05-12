@@ -1,15 +1,16 @@
 .nav {
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: flex-end;
-
+  height: 930px;
   padding: 16px;
 }
 
 .nav__link {
   display: flex;
   align-items: center;
-  max-width: 280px;
+  justify-content: flex-end;
+  max-width: 304px;
   padding: 8px;
 
   border-radius: 8px;
